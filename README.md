@@ -7,5 +7,5 @@ Check summary [here](https://drive.google.com/file/d/1tmFmq5sFnr_mp_kmElb8zP-W1P
 - [Framework.ipynb](https://github.com/DalilaKhettaf/Detecting-AE-for-intrusion-detetcion-systems/blob/main/Framework.ipynb): This notebook has most of the code for the research work, it provides the following:
    - The code of the statistical test.
    - The code of the outlier class.
-   - Codes for the three tests.
+   - Code for the three tests.
 
